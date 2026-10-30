@@ -1,0 +1,52 @@
+# Unity 자동 생성 폴더 (커밋 불필요)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE 생성 파일
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 빌드 산출물
+*.apk
+*.aab
+*.unitypackage
+*_BurstDebugInformation_DoNotShip/
+
+# 크래시 리포트 / OS 파일
+sysinfo.txt
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
+/_upload_tmp/
+
+# 빌드 산출물 (폴더 이름과 무관하게 매칭)
+*.exe
+*.dll
+*.zip
+*_Data/
+MonoBleedingEdge/
+*_BurstDebugInformation_DoNotShip/
+
+# 유료/외부 에셋 (재배포 금지 - 각자 설치 필요)
+/Assets/Plugins/Demigiant/
+/Assets/Plugins/Demigiant.meta
